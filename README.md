@@ -20,10 +20,10 @@ In order to run the application follow these steps:
 
 ## pictures
 
-- ![Screenshot](images/Screenshot_1.png)
-- ![Screenshot](images/Screenshot_2.png)
-- ![Screenshot](images/Screenshot_3.png)
-- ![Screenshot](images/Screenshot_4.png)
+- ![Screenshot](Readme_images/Screenshot_1.png)
+- ![Screenshot](Readme_images/Screenshot_2.png)
+- ![Screenshot](Readme_images/Screenshot_3.png)
+- ![Screenshot](Readme_images/Screenshot_4.png)
 
 
 ## Dependencies
